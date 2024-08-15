@@ -59,7 +59,7 @@ console.log(novoDocente.aprovarEstudante('João'));
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/MatheusRFilho/Alura-js-orienta--o-a-objetos
    ```
 
 2. Navegue até o diretório do projeto:
